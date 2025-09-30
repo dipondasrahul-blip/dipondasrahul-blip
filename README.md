@@ -16,14 +16,14 @@
 
 Skills: 📊 Data Analysis: Python (pandas, scikit-learn, matplotlib, plotly), SQL  📈 BI & Visualization: Power BI, Tableau  🤖 Machine Learning: XGBoost, Random Forest, Logistic Regression  🗂 Data Sources (U.S. focus): FTC, FBI IC3, FDIC, BLS, CFPB datasets  📝 Other: Git/GitHub, Research Writing, Business Analytics
 
- -🔭 I’m currently working on Fraud & cybercrime dashboards (FTC & FBI datasets) | Business failure prediction models (FDIC + BLS data) 
- -🌱 I’m currently learning Advanced AI/ML for predictive modeling | Cloud-based data pipelines 
- -👯 I’m looking to collaborate on Data-driven projects in fraud detection, risk analysis, and financial analytics 
- -🤔 I’m looking for help with Optimizing ML models for large-scale financial datasets | Improving real-time BI dashboards 
- -💬 Ask me about Business analytics, AI for fraud detection, financial risk research 
- -📫 How to reach me: ### 📚 Research Profiles - [Google Scholar](https://scholar.google.com/citations?user=YARW8ngAAAAJ)   - [LinkedIn](https://www.linkedin.com/in/diponrahul/)   - 📧 Email: dipondasrahul@gmail.com  
- -😄 Pronouns: He/Him 
- -⚡ Fun fact: I blend academic research with real-world datasets to solve U.S. fraud & risk challenges 
+- 🔭 I’m currently working on Fraud & cybercrime dashboards (FTC & FBI datasets) | Business failure prediction models (FDIC + BLS data) 
+- 🌱 I’m currently learning Advanced AI/ML for predictive modeling | Cloud-based data pipelines 
+- 👯 I’m looking to collaborate on Data-driven projects in fraud detection, risk analysis, and financial analytics 
+- 🤔 I’m looking for help with Optimizing ML models for large-scale financial datasets | Improving real-time BI dashboards 
+- 💬 Ask me about Business analytics, AI for fraud detection, financial risk research 
+- 📫 How to reach me: ### 📚 Research Profiles - [Google Scholar](https://scholar.google.com/citations?user=YARW8ngAAAAJ)   - [LinkedIn](https://www.linkedin.com/in/diponrahul/)   - 📧 Email: dipondasrahul@gmail.com  
+- 😄 Pronouns: He/Him 
+- Fun fact: I blend academic research with real-world datasets to solve U.S. fraud & risk challenges 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dipondasrahul-blip)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/diponrahul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?user=YARW8ngAAAAJ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:dipondasrahul@gmail.com)  
