@@ -4,14 +4,14 @@
 #### AI & Business Analytics for Fraud Prevention and Financial Risk
 
 
-- 🎓 MBA in Business Analytics (STEM), Midwestern State University, Texas  
-- 📊 Researcher with **12 publications, 50+ citations**, and multiple IEEE conference papers  
-- 💼 2+ years of experience in **Financial Risk & Compliance Analysis**  
-- 🔍 Focused on applying **AI & Business Analytics** for:  
+🎓 MBA in Business Analytics (STEM), Midwestern State University, Texas  
+📊 Researcher with **12 publications, 50+ citations**, and multiple IEEE conference papers  
+💼 2+ years of experience in **Financial Risk & Compliance Analysis**  
+🔍 Focused on applying **AI & Business Analytics** for:  
    - Fraud detection & cybersecurity  
    - Business failure prediction  
    - Financial decision-making  
-- 🚀 Passionate about turning real U.S. datasets (FTC, FBI, FDIC, BLS, CFPB) into **actionable insights** using Python, SQL, and BI tools
+🚀 Passionate about turning real U.S. datasets (FTC, FBI, FDIC, BLS, CFPB) into **actionable insights** using Python, SQL, and BI tools
 
 
 Skills: ### ⚡ Skills - **Data Analysis:** Python (pandas, scikit-learn, matplotlib, plotly), SQL   - **BI & Visualization:** Power BI, Tableau   - **Machine Learning:** XGBoost, Random Forest, Logistic Regression   - **Data Sources (U.S. focus):** FTC, FBI IC3, FDIC, BLS, CFPB   - **Other:** Git/GitHub, Research Writing, Business Analytics
