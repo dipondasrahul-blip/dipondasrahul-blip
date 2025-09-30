@@ -6,7 +6,7 @@
 
  🎓 MBA in Business Analytics (STEM), Midwestern State University, Texas  
  📊 Researcher with **12 publications, 50+ citations**, and multiple IEEE conference papers  
- 💼 5+ years of experience in **Financial Risk & Compliance Analysis**  
+ 💼 2+ years of experience in **Financial Risk & Compliance Analysis**  
  🔍 Focused on applying **AI & Business Analytics** for:  
    - Fraud detection & cybersecurity  
    - Business failure prediction  
